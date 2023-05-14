@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @ianmenz
-- 🎓 I am a college student working towards a computer science degree. I plan to work in IT Security
-- 🎥 I am a filmmaker and enjoy producing music videos for artists at __[Menzo Collaborations](https://menzocollaborations.com/)__
-- 🕺 I like dancing to music, always ready to show my moves
-- 🌐 I'm a data privacy advocate. Check out these __[programs I use and recommend](https://ianmenz.com/#programs)__
-
+- 🎓 I'm a college student pursuing a computer science degree and a career in cybersecurity
+- 🎥 I'm a filmmaker and enjoy producing music videos for artists at __[Menzo Collaborations](https://menzocollaborations.com/)__
+- 🕺 I'm a dancer, always ready to move to the beat and celebrate life
+- 🌐 I'm a data privacy advocate and __[recommend these programs to perserve your privacy](https://ianmenz.com/#programs)__
 - 📫 How to reach me: https://ianmenz.com/#email
 
 <!---
